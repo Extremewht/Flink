@@ -5,7 +5,7 @@ import java.sql.Timestamp;
 public class Event {
     public String user;
     public String url;
-    public  Long timestamp;
+    public Long timestamp;
 
     public Event() {
     }
