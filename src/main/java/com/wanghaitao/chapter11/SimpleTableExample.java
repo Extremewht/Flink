@@ -1,4 +1,4 @@
-package com.wanghaitao.chapter05.chapter11;
+package com.wanghaitao.chapter11;
 
 import com.wanghaitao.chapter05.ClickSource;
 import com.wanghaitao.chapter05.Event;
